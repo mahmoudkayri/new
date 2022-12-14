@@ -20,7 +20,7 @@ html {
 
 body {
     background-color: #fafbfc;
-    color: #2e3d49;
+    color: #226fad;
     font-family: Georgia, Times, 'Times New Roman', serif;
 }
 
@@ -41,6 +41,7 @@ p {
 .container {
     margin: auto;
     max-width: 1300px;
+    color: #02ccba;
 }
 
 
@@ -163,7 +164,7 @@ footer {
     aside {
         display: block;
         border-top: 0;
-        border-left: 2px solid #dbe2e8;
+        border-left: 2px solid #83dd2f;
         margin: 0;
         padding: 2em;
         flex: 0 1 30%;
